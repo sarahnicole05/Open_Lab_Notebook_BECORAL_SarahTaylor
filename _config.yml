@@ -18,10 +18,10 @@ avatar: "https://github.com/BECORAL/Open_Lab_Notebook_BECORAL/blob/master/images
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: snt56@scarletmail.rutgers.edu
   facebook:
   flickr:
-  github: /BECORAL
+  github: /sarahnicole05
   instagram:
   linkedin:
   pinterest:
@@ -41,13 +41,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: "https://becoral.github.io/Open_Lab_Notebook_BECORAL/" 
+url: "https://sarahnicole05.github.io/Open_Lab_Notebook_BECORAL_SarahTaylor/" 
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/Open_Lab_Notebook_BECORAL"
+baseurl: "/Open_Lab_Notebook_BECORAL_SarahTaylor"
 
 #
 # !! You don't need to change any of the configuration flags below !!
